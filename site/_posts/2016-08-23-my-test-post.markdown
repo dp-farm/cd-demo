@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My new blog post"
+title:  "My new post at 3:52"
 categories: demo
 ---
 
