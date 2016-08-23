@@ -24,14 +24,18 @@
         }
     ],
     "id": "cd-demo-app",
-    "instances": 1,
+    "instances": 5,
     "labels": {
-        "HAPROXY_0_VHOST": "sunil-30e-publicsl-b34a2yhj5mmu-601236417.us-west-2.elb.amazonaws.com",
-        "HAPROXY_GROUP": "external",
-        "lastChangedBy": "sunil@mesosphere.io"
     },
     "mem": 128,
     "upgradeStrategy": {
         "minimumHealthCapacity": 0
+    },
+    "env": {
+	    "NUAGE-ENTERPRISE": "Citrix",
+	    "NUAGE-DOMAIN" : "myDomainInstance",
+	    "NUAGE-ZONE":"MyZone",
+	    "NUAGE-NETWORK":"web-frontend",
+	    "NUAGE-USER":"admin"
     }
 }
