@@ -2,13 +2,7 @@
     "container": {
         "docker": {
             "image": "mesosphere/cd-demo-app:latest",
-            "network": "BRIDGE",
-            "portMappings": [
-                {
-                    "containerPort": 4000,
-                    "protocol": "tcp"
-                }
-            ]
+            "network": "NONE",
         },
         "type": "DOCKER"
     },
@@ -23,6 +17,9 @@
             "timeoutSeconds": 10
         }
     ],
+    "ports": [
+	    4000
+     ],
     "id": "cd-demo-app",
     "instances": 5,
     "labels": {
