@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to the Continuous Delivery demonstration!"
+title:  "My new blog post"
 categories: demo
 ---
 
