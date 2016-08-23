@@ -2,7 +2,7 @@
     "container": {
         "docker": {
             "image": "mesosphere/cd-demo-app:latest",
-            "network": "NONE",
+            "network": "NONE"
         },
         "type": "DOCKER"
     },
