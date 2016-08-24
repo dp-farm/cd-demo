@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "new post"
+title:  "My new blog"
 categories: demo
 ---
 
