@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sergey solved VRS-G. Let's test it"
+title:  "today is wednesday"
 categories: demo
 ---
 
