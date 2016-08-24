@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "today is wednesday"
+title:  "new post"
 categories: demo
 ---
 
