@@ -13,7 +13,7 @@
      ],
     "instances": 5,
     "labels": {
-	"hello" : "how are you"
+	"NETSCALER_STYLEBOOK_PARAMS_0" : "{\"protocol\":\"HTTP\",\"algorithm\": \"LEASTRESPONSETIME\"}"
     },
     "mem": 128,
     "upgradeStrategy": {
