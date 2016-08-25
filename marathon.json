@@ -13,7 +13,7 @@
      ],
     "instances": 5,
     "labels": {
-	"NETSCALER_STYLEBOOK_PARAMS_0" : "{\"protocol\":\"HTTP\",\"algorithm\": \"LEASTRESPONSETIME\"}"
+	"NETSCALER_STYLEBOOK_PARAMS_0" : "{\"protocol\":\"HTTP\",\"algorithm\": \"ROUNDROBIN\"}"
     },
     "mem": 128,
     "upgradeStrategy": {
