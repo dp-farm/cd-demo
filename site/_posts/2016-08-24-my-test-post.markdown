@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sanjay Gupta"
+title:  "Manikam's version"
 categories: demo
 ---
 
